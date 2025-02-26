@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @essockaurelien
 - 👀 I’m interested in Telecommunication & IoT
-- 🌱 I’m currently learning php, java for IoT
-- 💞️ I’m looking to collaborate on smart parck
+- 🌱 I’m currently learning ... php,java,Lavarel,phpMQTT for IoT
+- 💞️ I’m looking to collaborate ... on smart parcking
 - 📫 How to reach me ... essockaurelien@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
